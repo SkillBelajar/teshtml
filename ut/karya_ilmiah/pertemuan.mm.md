@@ -1,3 +1,4 @@
+
 # Teknik Penulisan Karya Ilmiah
 
 ## Pertemuan 1
@@ -17,6 +18,7 @@
     - Komponen dan Subtansi Karya Ilmiah
     - Sikap Penulis Dalam karya Ilmiah
     - Penggunaan Bahasa
+    
 
 ## Pertemuan 2
 - Persiapan Penulisan Karya Ilmiah
